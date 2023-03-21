@@ -6,19 +6,15 @@ Spatial Calibration & Mapping of PM2.5 is an open source and efficient calibrati
 2. The "***Automatic Monitoring Instrument***" for PM2.5 established by the Taiwanese Environmental Protection Agency (TWEPA) is available at https ://opend ata.epa.gov.tw/Data/Conte nts/ATM00 625/
 
 # Main Steps for Use
-**Step 1**: - ***run mainStep1.m***
-  nonSpatial calibration using LR 
-   Spatial calibration using GWR 
+**Step 1**: - ***run mainStep1.m*** provides the non-spatial calibration using Linear Regression (LR) & spatial calibration using GWR 
 
-Step 2. run mainStep2.m
+**Step 2**: - ***run mainStep2.m*** Plot GWR or LR result
+                                    1: plot GWR maps
+  
+                                    0: plot LR maps
 
-Plot GWR or LR result
-  1: plot GWR maps
-  0: plot LR maps
+**Input**: - (1) Data/Newcase/1/airbox.csv
 
-Input: 
-(1) airbox.csv
-https://pm25.lass-net.org/
-(2) EPA.csv 
+             (2) Data/Newcase/1/EPA.csv 
 
-(3) gadm36_TWN_shp  
+             (3) Data/TWN_shp/gadm36_TWN_shp  
