@@ -3,7 +3,7 @@ Spatial Calibration & Mapping of PM2.5 is an open source and efficient calibrati
 
 # Data
 1. The "***Low-cost air box***" for low-cost PM 2.5 observations are available at https://pm25.lass-net.org/
-2. The "***Automatic Monitoring Instrument***" for PM2.5 established by the Taiwanese Environmental Protection Agency (TWEPA) is available at https ://opend ata.epa.gov.tw/Data/Conte nts/ATM00 625/
+2. The "***Automatic Monitoring Instrument***" for PM2.5 established by the Taiwanese Environmental Protection Agency (TWEPA) is available at https://data.epa.gov.tw/en
 
 # Main Steps for Use
 **Step 1**: - ***run mainStep1.m*** provides the non-spatial calibration using Linear Regression (LR) & spatial calibration using GWR 
