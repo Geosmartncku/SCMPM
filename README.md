@@ -8,10 +8,6 @@ Spatial Calibration & Mapping of PM2.5 is an open source and efficient calibrati
 # Main Steps for Use
 **Step 1**: - ***run mainStep1.m*** provides the non-spatial calibration using Linear Regression (LR) & spatial calibration using GWR 
 
-**Step 2**: - ***run mainStep2.m*** Plot GWR or LR result
-                                    1: plot GWR maps
-                                    0: plot LR maps
+**Step 2**: - ***run mainStep2.m*** Plot GWR or LR result; 1: plot GWR maps; 0: plot LR maps
 
-**Input**: - (1) Data/Newcase/1/airbox.csv
-             (2) Data/Newcase/1/EPA.csv 
-             (3) Data/TWN_shp/gadm36_TWN_shp  
+**Input**: - (1) Data/Newcase/1/airbox.csv; (2) Data/Newcase/1/EPA.csv; (3) Data/TWN_shp/gadm36_TWN_shp  
