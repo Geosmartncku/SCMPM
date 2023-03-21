@@ -1,7 +1,6 @@
 # SCMPM2.5
 Spatial Calibration & Mapping of PM2.5 (SCMPM2.5) is an open source and efficient calibration and mapping approach based on real-time spatial model that calibrates measurements from low-cost sensor in an environment with high relative humidity. The model provides spatial calibration of low cost PM 2.5 sensors using the regulatory air quality monitoring stations.
 
-***Written By***: - Prof. Hone Jay Chu
 
 # Data
 1. The "***Low-cost air box***" for low-cost PM 2.5 observations are available at https://pm25.lass-net.org/
@@ -13,6 +12,8 @@ Spatial Calibration & Mapping of PM2.5 (SCMPM2.5) is an open source and efficien
 **Step 2**: - ***run mainStep2.m*** Plot GWR or LR result; 1: plot GWR maps; 0: plot LR maps
 
 **Input**: - (1) Data/Newcase/1/airbox.csv; (2) Data/Newcase/1/EPA.csv; (3) Data/TWN_shp/gadm36_TWN_shp  
+
+All the codes are written by Prof. Hone-Jay Chu
 
 # Important Reference
 To support the use of this code and the data please cite the following publication:
