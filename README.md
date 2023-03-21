@@ -17,7 +17,7 @@ Spatial Calibration & Mapping of Particulate Matter (SCMPM) is an open source an
 All the codes are exlusively written for ***MATLAB*** environment.
 
 # Credit
-All the codes and data are written & provided by: 
+The main script and data are written & provided by: 
 
 ***Prof. Hone-Jay Chu***
 
