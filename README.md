@@ -15,9 +15,9 @@ Spatial Calibration & Mapping of PM2.5 (SCMPM2.5) is an open source and efficien
 
 
 
+# Credit
 All the codes and data are written & provided by: 
 
-# Credit
 ***Prof. Hone-Jay Chu***
 
 Associate Professor
