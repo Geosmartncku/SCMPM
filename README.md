@@ -1,5 +1,5 @@
 # SCMPM
-Spatial Calibration & Mapping of PM2.5 (SCMPM2.5) is an open source and efficient calibration and mapping approach based on real-time spatial model that calibrates measurements from low-cost sensor in an environment with high relative humidity. The model provides spatial calibration of low cost PM 2.5 sensors using the regulatory air quality monitoring stations.
+Spatial Calibration & Mapping of Particulate Matter (SCMPM) is an open source and efficient calibration and mapping approach based on real-time spatial model that calibrates measurements from low-cost sensor in an environment with high relative humidity. The model provides spatial calibration of low cost PM2.5 sensors using the regulatory air quality monitoring stations.
 
 
 # Data
