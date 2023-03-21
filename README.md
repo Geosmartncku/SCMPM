@@ -19,9 +19,7 @@ All the codes are exlusively written for ***MATLAB*** environment.
 # Credit
 The main script and data are written & provided by: 
 
-***Prof. Hone-Jay Chu***
-
-Associate Professor
+***Geosmart Lab***
 
 Department of Geomatics, National Cheng Kung University, Tainan City, Taiwan (R.O.C)
 
